@@ -1,6 +1,5 @@
 plugins:
   sonar-java:
     enabled: true
-plugins:
   pmd:
     enabled: true
